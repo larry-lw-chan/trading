@@ -1,0 +1,10 @@
+# Python Ignore
+*.pyc
+bin
+include
+lib
+share
+pyvenv.cfg
+
+# Mac Ignore
+.DS_Store
